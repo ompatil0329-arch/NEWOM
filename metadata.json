@@ -1,0 +1,6 @@
+{
+  "name": "NEWOM",
+  "description": "An exclusive, invitation-only slot-based business networking platform for Indian entrepreneurs and professionals, featuring automated speaker rotation meetings.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
